@@ -1,5 +1,6 @@
 <?php
-//verifying if the numbers are Even or Odd numbers
+//Vérifier si les nombres sont pairs ou impairs
+
 $nombres = [200, 204, 173, 98, 171, 404, 459];
 foreach ($nombres as $nombre) {
     if ($nombre % 2 == 0) {
