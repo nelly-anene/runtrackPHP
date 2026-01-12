@@ -5,7 +5,7 @@ php
 //Show "Hello La Plateforme
 
 function hello () {
-    echo "Hello La Platefomr!";
+  echo "Hello La Platefome!";
 }
  //Call the funtion
  hello();
