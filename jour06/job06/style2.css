@@ -1,0 +1,57 @@
+/* style2.css - Dark Purple Theme */
+body {
+    background-color: #c36de6;
+    font-family: 'Courier New', monospace;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: #7221d6;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 8px 16px rgba(168, 105, 226, 0.5);
+}
+
+h1 {
+    color: #d592e1;
+    text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+label {
+    display: block;
+    color: hsl(291, 80%, 61%);
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #d75bed;
+    border-radius: 8px;
+    background-color: #bf80e7;
+    color: rgb(237, 165, 165);
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background-color: #e094ee;
+    color: #ffffff;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #885795;
+}
